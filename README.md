@@ -11,7 +11,7 @@
 
 # `📖` `Backstory!`
   
-> It's a game I created while bored because I was without internet at home, so it doesn't contain a lot of information or difficulties, but it was a lot of fun to code, and always learning a little more about the basics, because nobody knows everything obviously! (:
+> It's a game that I created while bored because I was without internet at home, so it doesn't contain a lot of information or difficulties, but it was a lot of fun to code, and always learning a little more about the basics, because nobody knows everything obviously! (:
 
 Interesting things in the code 
 - Python OOP
@@ -22,11 +22,22 @@ Interesting things in the code
 - API and request processing in general
 - Fidelity to PEP8
 
-# `🧠` `Como jogar?`
+# `🧠` `Tutorial!`
 
-> The front-end are in Portuguese...
+> The front-end is actually in Portuguese.
 
-Comandos possíveis
-- `tips` Dicas para a palavra atual.
-- `again` Para desistir e tentar uma nova palavra.
-- `exit` Sair do aplicativo e mostrar a palavra correta atual.
+Comandos utilizáveis pelo jogador
+- `tips` `Receber uma dica, se disponível.`
+- `again` `Desistir e tentar outra palavra.`
+- `exit` `Relevar a palavra e fechar.`
+
+# `⚙️` `Installation!`
+
+- [Download](https://github.com/balasclava/guess-the-word/releases) the official and updated release.
+
+- https://user-images.githubusercontent.com/71716568/158046102-b9f63f17-120f-45cf-957f-db44761e748c.mp4
+
+## `If using the source or git`
+
+- Download the source and Python latest version 
+- Paste `pip install -r requirements.txt` in terminal
