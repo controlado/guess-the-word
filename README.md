@@ -21,3 +21,12 @@ Interesting things in the code
 - List comprehension study in Python
 - API and request processing in general
 - Fidelity to PEP8
+
+# `🧠` `Como jogar?`
+
+> The front-end are in Portuguese...
+
+Comandos possíveis
+- `tips` Dicas para a palavra atual.
+- `again` Para desistir e tentar uma nova palavra.
+- `exit` Sair do aplicativo e mostrar a palavra correta atual.
