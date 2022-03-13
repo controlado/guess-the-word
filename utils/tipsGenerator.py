@@ -17,9 +17,6 @@ class Tips():
 
     # Function to take the list from another list.
     def formatList(self, iterable: list):
-        if len(iterable) == 1:  # If the list contains only one item.
-            return [iterable[0]]
-
         # If there's more than one item,
         # it will put everything in one list.
-        return [items for items in iterable]
+        return [iterable[0]] if len(iterable) == 1 else list(iterable)
